@@ -23,7 +23,6 @@ class MainActivity : AppCompatActivity() {
 
         products.forEach {
             d("anette","Product is $it")
-            productsTextView.append(it)
         }
 
 
