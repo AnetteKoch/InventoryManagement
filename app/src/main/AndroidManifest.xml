@@ -22,6 +22,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".AddTrainingActivity" />
+        <activity android:name=".SpinnnerActivity" />
     </application>
 
 </manifest>
